@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="482" height="618" viewBox="0 0 482 618" role="img" aria-label="Opgave: matrix van 3 bij 3 met een vraagteken en acht antwoordopties A tot en met H">
+<title>Opgave: matrix van 3 bij 3 met een vraagteken en acht antwoordopties A tot en met H</title>
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#111" stroke-width="2.2"/></pattern></defs>
+<rect x="0" y="0" width="482" height="618" fill="#fff"/>
+<rect x="97.0" y="28.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<circle cx="145.0" cy="76.0" r="20.2" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<rect x="193.0" y="28.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<circle cx="219.4" cy="76.0" r="14.4" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><circle cx="262.6" cy="76.0" r="14.4" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<rect x="289.0" y="28.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<circle cx="313.0" cy="96.2" r="13.0" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><circle cx="337.0" cy="55.8" r="13.0" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><circle cx="361.0" cy="96.2" r="13.0" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<rect x="97.0" y="124.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<polygon points="162.8,154.2 162.8,189.8 127.2,189.8 127.2,154.2" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<rect x="193.0" y="124.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<polygon points="232.1,159.3 232.1,184.7 206.7,184.7 206.7,159.3" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="275.3,159.3 275.3,184.7 249.9,184.7 249.9,159.3" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<rect x="289.0" y="124.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<polygon points="324.5,180.7 324.5,203.6 301.5,203.6 301.5,180.7" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="348.5,140.4 348.5,163.3 325.5,163.3 325.5,140.4" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="372.5,180.7 372.5,203.6 349.5,203.6 349.5,180.7" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<rect x="97.0" y="220.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<polygon points="145.0,248.4 165.1,283.2 124.9,283.2" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<rect x="193.0" y="220.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<polygon points="219.4,254.0 233.7,278.9 205.1,278.9" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="262.6,254.0 276.9,278.9 248.3,278.9" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<rect x="289.0" y="220.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<text x="337.0" y="282.0" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#555">?</text>
+<line x1="14" y1="338.0" x2="468" y2="338.0" stroke="#bbb" stroke-width="1" stroke-dasharray="4 4"/>
+<rect x="28.0" y="360.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<polygon points="54.4,394.0 68.7,418.9 40.1,418.9" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="97.6,394.0 111.9,418.9 83.3,418.9" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="76.0" y="475.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#111">A</text>
+<rect x="138.0" y="360.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<polygon points="173.5,416.7 173.5,439.6 150.5,439.6 150.5,416.7" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="197.5,376.4 197.5,399.3 174.5,399.3 174.5,376.4" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="221.5,416.7 221.5,439.6 198.5,439.6 198.5,416.7" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="186.0" y="475.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#111">B</text>
+<rect x="248.0" y="360.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<polygon points="275.8,375.7 288.3,397.3 263.4,397.3" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="316.2,375.7 328.6,397.3 303.7,397.3" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="275.8,416.1 288.3,437.6 263.4,437.6" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="316.2,416.1 328.6,437.6 303.7,437.6" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="296.0" y="475.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#111">C</text>
+<rect x="358.0" y="360.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<circle cx="382.0" cy="428.2" r="13.0" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><circle cx="406.0" cy="387.8" r="13.0" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><circle cx="430.0" cy="428.2" r="13.0" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="406.0" y="475.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#111">D</text>
+<rect x="28.0" y="482.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<polygon points="52.0,537.6 64.9,559.9 39.1,559.9" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="76.0,497.3 88.9,519.6 63.1,519.6" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="100.0,537.6 112.9,559.9 87.1,559.9" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="76.0" y="597.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#111">E</text>
+<rect x="138.0" y="482.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<polygon points="162.0,537.6 174.9,559.9 149.1,559.9" fill="#fff" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="186.0,497.3 198.9,519.6 173.1,519.6" fill="#fff" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="210.0,537.6 222.9,559.9 197.1,559.9" fill="#fff" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="186.0" y="597.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#111">F</text>
+<rect x="248.0" y="482.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<polygon points="296.0,510.4 316.1,545.2 275.9,545.2" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="296.0" y="597.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#111">G</text>
+<rect x="358.0" y="482.0" width="96" height="96" fill="#fff" stroke="#444" stroke-width="1.4"/>
+<polygon points="382.0,534.6 397.6,550.2 382.0,565.7 366.4,550.2" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="406.0,494.3 421.6,509.8 406.0,525.4 390.4,509.8" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/><polygon points="430.0,534.6 445.6,550.2 430.0,565.7 414.4,550.2" fill="#111" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="406.0" y="597.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#111">H</text>
+</svg>
