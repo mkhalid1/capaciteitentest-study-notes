@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../../README.md#inhoud) · Vorige: [Diagnostische toets van 15 minuten](../diagnostic.md) · Volgende: [Tekstbegrip](tekstbegrip.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../../README.md#inhoud) · Vorige: [Diagnostische toets van 15 minuten](../diagnostic.md) · Volgende: [Tekstbegrip](tekstbegrip.md)
+<!-- /nav:top -->
 
 # Woordrelaties
 
@@ -111,4 +113,6 @@ Woordrelaties gaan snel zodra je de zin-methode automatisch toepast. Oefen ze tu
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Diagnostische toets van 15 minuten](../diagnostic.md) | Volgende: [Tekstbegrip](tekstbegrip.md) → | [Terug naar de inhoud](../../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Diagnostische toets van 15 minuten](../diagnostic.md) | Volgende: [Tekstbegrip](tekstbegrip.md) → | [Terug naar de inhoud](../../README.md#inhoud)
+<!-- /nav:bottom -->

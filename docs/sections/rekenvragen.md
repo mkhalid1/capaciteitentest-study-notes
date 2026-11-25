@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../../README.md#inhoud) · Vorige: [Cijfer- en letterreeksen](cijferreeksen.md) · Volgende: [Figuurreeksen en matrices](figuurreeksen.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../../README.md#inhoud) · Vorige: [Cijfer- en letterreeksen](cijferreeksen.md) · Volgende: [Figuurreeksen en matrices](figuurreeksen.md)
+<!-- /nav:top -->
 
 # Rekenvragen
 
@@ -95,4 +97,6 @@ Rekenvragen zonder rekenmachine voelen onder tijdsdruk zwaarder dan thuis. Oefen
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Cijfer- en letterreeksen](cijferreeksen.md) | Volgende: [Figuurreeksen en matrices](figuurreeksen.md) → | [Terug naar de inhoud](../../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Cijfer- en letterreeksen](cijferreeksen.md) | Volgende: [Figuurreeksen en matrices](figuurreeksen.md) → | [Terug naar de inhoud](../../README.md#inhoud)
+<!-- /nav:bottom -->

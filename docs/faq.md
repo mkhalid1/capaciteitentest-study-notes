@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../README.md#inhoud) · Vorige: [Checklist voor de testdag](test-day-checklist.md) · Volgende: [Begrippenlijst](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../README.md#inhoud) · Vorige: [Checklist voor de testdag](test-day-checklist.md) · Volgende: [Begrippenlijst](glossary.md)
+<!-- /nav:top -->
 
 # Veelgestelde vragen
 
@@ -68,4 +70,6 @@ Het psychologisch onderzoek is een apart onderdeel, later in de selectie, en gee
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Checklist voor de testdag](test-day-checklist.md) | Volgende: [Begrippenlijst](glossary.md) → | [Terug naar de inhoud](../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Checklist voor de testdag](test-day-checklist.md) | Volgende: [Begrippenlijst](glossary.md) → | [Terug naar de inhoud](../README.md#inhoud)
+<!-- /nav:bottom -->

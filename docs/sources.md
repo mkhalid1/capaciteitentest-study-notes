@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../README.md#inhoud) · Vorige: [Begrippenlijst](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../README.md#inhoud) · Vorige: [Begrippenlijst](glossary.md)
+<!-- /nav:top -->
 
 # Bronnen
 
@@ -49,4 +51,6 @@ Deze gids is onafhankelijk en niet verbonden aan de Politie, Defensie, de Rijkso
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Begrippenlijst](glossary.md) | [Terug naar de inhoud](../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Begrippenlijst](glossary.md) | [Terug naar de inhoud](../README.md#inhoud)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../../README.md#inhoud) · Vorige: [Tekstbegrip](tekstbegrip.md) · Volgende: [Rekenvragen](rekenvragen.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../../README.md#inhoud) · Vorige: [Tekstbegrip](tekstbegrip.md) · Volgende: [Rekenvragen](rekenvragen.md)
+<!-- /nav:top -->
 
 # Cijfer- en letterreeksen
 
@@ -103,4 +105,6 @@ Reeksen zijn op de testdag snelle punten zodra de aanpak automatisch gaat. Wil j
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Tekstbegrip](tekstbegrip.md) | Volgende: [Rekenvragen](rekenvragen.md) → | [Terug naar de inhoud](../../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Tekstbegrip](tekstbegrip.md) | Volgende: [Rekenvragen](rekenvragen.md) → | [Terug naar de inhoud](../../README.md#inhoud)
+<!-- /nav:bottom -->

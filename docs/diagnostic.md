@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../README.md#inhoud) · Vorige: [Wat is een capaciteitentest?](test-overview.md) · Volgende: [Woordrelaties](sections/woordrelaties.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../README.md#inhoud) · Vorige: [Wat is een capaciteitentest?](test-overview.md) · Volgende: [Woordrelaties](sections/woordrelaties.md)
+<!-- /nav:top -->
 
 # Diagnostische toets van 15 minuten
 
@@ -101,4 +103,6 @@ Kies daarna een plan: het [plan van 7 dagen](study-plans.md#plan-van-7-dagen) al
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Wat is een capaciteitentest?](test-overview.md) | Volgende: [Woordrelaties](sections/woordrelaties.md) → | [Terug naar de inhoud](../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Wat is een capaciteitentest?](test-overview.md) | Volgende: [Woordrelaties](sections/woordrelaties.md) → | [Terug naar de inhoud](../README.md#inhoud)
+<!-- /nav:bottom -->

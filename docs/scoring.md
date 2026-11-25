@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../README.md#inhoud) · Vorige: [Figuurreeksen en matrices](sections/figuurreeksen.md) · Volgende: [Tempo en tijdsdruk](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../README.md#inhoud) · Vorige: [Figuurreeksen en matrices](sections/figuurreeksen.md) · Volgende: [Tempo en tijdsdruk](timing.md)
+<!-- /nav:top -->
 
 # Zo werkt de score
 
@@ -64,4 +66,6 @@ Wat je wel in de hand hebt:
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Figuurreeksen en matrices](sections/figuurreeksen.md) | Volgende: [Tempo en tijdsdruk](timing.md) → | [Terug naar de inhoud](../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Figuurreeksen en matrices](sections/figuurreeksen.md) | Volgende: [Tempo en tijdsdruk](timing.md) → | [Terug naar de inhoud](../README.md#inhoud)
+<!-- /nav:bottom -->

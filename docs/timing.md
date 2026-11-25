@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../README.md#inhoud) · Vorige: [Zo werkt de score](scoring.md) · Volgende: [Studieplannen: 7 dagen en 2 dagen](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../README.md#inhoud) · Vorige: [Zo werkt de score](scoring.md) · Volgende: [Studieplannen: 7 dagen en 2 dagen](study-plans.md)
+<!-- /nav:top -->
 
 # Tempo en tijdsdruk
 
@@ -42,4 +44,6 @@ Lezen over tempo helpt maar een beetje. Wat helpt, is een paar keer onder echte 
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Zo werkt de score](scoring.md) | Volgende: [Studieplannen: 7 dagen en 2 dagen](study-plans.md) → | [Terug naar de inhoud](../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Zo werkt de score](scoring.md) | Volgende: [Studieplannen: 7 dagen en 2 dagen](study-plans.md) → | [Terug naar de inhoud](../README.md#inhoud)
+<!-- /nav:bottom -->

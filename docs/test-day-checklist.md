@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../README.md#inhoud) · Vorige: [Voor politie en Defensie](politie-en-defensie.md) · Volgende: [Veelgestelde vragen](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../README.md#inhoud) · Vorige: [Voor politie en Defensie](politie-en-defensie.md) · Volgende: [Veelgestelde vragen](faq.md)
+<!-- /nav:top -->
 
 # Checklist voor de testdag
 
@@ -43,4 +45,6 @@ Wil je vlak voor de echte test nog één keer warmdraaien, doe dan een paar opga
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Voor politie en Defensie](politie-en-defensie.md) | Volgende: [Veelgestelde vragen](faq.md) → | [Terug naar de inhoud](../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Voor politie en Defensie](politie-en-defensie.md) | Volgende: [Veelgestelde vragen](faq.md) → | [Terug naar de inhoud](../README.md#inhoud)
+<!-- /nav:bottom -->

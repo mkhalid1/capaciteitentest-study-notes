@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../README.md#inhoud) · Vorige: [Studieplannen: 7 dagen en 2 dagen](study-plans.md) · Volgende: [Checklist voor de testdag](test-day-checklist.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../README.md#inhoud) · Vorige: [Studieplannen: 7 dagen en 2 dagen](study-plans.md) · Volgende: [Checklist voor de testdag](test-day-checklist.md)
+<!-- /nav:top -->
 
 # Voor politie en Defensie
 
@@ -64,4 +66,6 @@ Voor allebei geldt: lezen is het begin, oefenen onder tijdsdruk maakt het versch
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Studieplannen: 7 dagen en 2 dagen](study-plans.md) | Volgende: [Checklist voor de testdag](test-day-checklist.md) → | [Terug naar de inhoud](../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Studieplannen: 7 dagen en 2 dagen](study-plans.md) | Volgende: [Checklist voor de testdag](test-day-checklist.md) → | [Terug naar de inhoud](../README.md#inhoud)
+<!-- /nav:bottom -->

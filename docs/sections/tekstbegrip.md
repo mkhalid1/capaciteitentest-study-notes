@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../../README.md#inhoud) · Vorige: [Woordrelaties](woordrelaties.md) · Volgende: [Cijfer- en letterreeksen](cijferreeksen.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../../README.md#inhoud) · Vorige: [Woordrelaties](woordrelaties.md) · Volgende: [Cijfer- en letterreeksen](cijferreeksen.md)
+<!-- /nav:top -->
 
 # Tekstbegrip
 
@@ -95,4 +97,6 @@ Tekstbegrip onder tijdsdruk voelt anders dan rustig lezen. Probeer het in een vo
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Woordrelaties](woordrelaties.md) | Volgende: [Cijfer- en letterreeksen](cijferreeksen.md) → | [Terug naar de inhoud](../../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Woordrelaties](woordrelaties.md) | Volgende: [Cijfer- en letterreeksen](cijferreeksen.md) → | [Terug naar de inhoud](../../README.md#inhoud)
+<!-- /nav:bottom -->

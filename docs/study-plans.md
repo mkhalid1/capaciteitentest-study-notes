@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../README.md#inhoud) · Vorige: [Tempo en tijdsdruk](timing.md) · Volgende: [Voor politie en Defensie](politie-en-defensie.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../README.md#inhoud) · Vorige: [Tempo en tijdsdruk](timing.md) · Volgende: [Voor politie en Defensie](politie-en-defensie.md)
+<!-- /nav:top -->
 
 # Studieplannen
 
@@ -61,4 +63,6 @@ Heb je maar één avond? Doe dan van dag 1 de blokken 1, 2 en 4, en maak de test
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Tempo en tijdsdruk](timing.md) | Volgende: [Voor politie en Defensie](politie-en-defensie.md) → | [Terug naar de inhoud](../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Tempo en tijdsdruk](timing.md) | Volgende: [Voor politie en Defensie](politie-en-defensie.md) → | [Terug naar de inhoud](../README.md#inhoud)
+<!-- /nav:bottom -->

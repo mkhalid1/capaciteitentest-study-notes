@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../README.md#inhoud) · Vorige: [Veelgestelde vragen](faq.md) · Volgende: [Bronnen](sources.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../README.md#inhoud) · Vorige: [Veelgestelde vragen](faq.md) · Volgende: [Bronnen](sources.md)
+<!-- /nav:top -->
 
 # Begrippenlijst
 
@@ -42,4 +44,6 @@ Korte uitleg van woorden die je in uitnodigingen, instructies en uitslagen tegen
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Veelgestelde vragen](faq.md) | Volgende: [Bronnen](sources.md) → | [Terug naar de inhoud](../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Veelgestelde vragen](faq.md) | Volgende: [Bronnen](sources.md) → | [Terug naar de inhoud](../README.md#inhoud)
+<!-- /nav:bottom -->

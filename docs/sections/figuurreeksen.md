@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../../README.md#inhoud) · Vorige: [Rekenvragen](rekenvragen.md) · Volgende: [Zo werkt de score](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../../README.md#inhoud) · Vorige: [Rekenvragen](rekenvragen.md) · Volgende: [Zo werkt de score](../scoring.md)
+<!-- /nav:top -->
 
 # Figuurreeksen en matrices
 
@@ -102,4 +104,6 @@ Figuren onder tijdsdruk zijn een kwestie van routine. Oefen ze gemengd met verba
 
 ---
 
-<!-- nav:bottom -->← Vorige: [Rekenvragen](rekenvragen.md) | Volgende: [Zo werkt de score](../scoring.md) → | [Terug naar de inhoud](../../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Vorige: [Rekenvragen](rekenvragen.md) | Volgende: [Zo werkt de score](../scoring.md) → | [Terug naar de inhoud](../../README.md#inhoud)
+<!-- /nav:bottom -->

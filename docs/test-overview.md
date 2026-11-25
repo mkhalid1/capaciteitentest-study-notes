@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhoud](../README.md#inhoud) · Volgende: [Diagnostische toets van 15 minuten](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhoud](../README.md#inhoud) · Volgende: [Diagnostische toets van 15 minuten](diagnostic.md)
+<!-- /nav:top -->
 
 # Wat is een capaciteitentest?
 
@@ -56,4 +58,6 @@ De gratis [capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitent
 
 ---
 
-<!-- nav:bottom -->Volgende: [Diagnostische toets van 15 minuten](diagnostic.md) → | [Terug naar de inhoud](../README.md#inhoud)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Volgende: [Diagnostische toets van 15 minuten](diagnostic.md) → | [Terug naar de inhoud](../README.md#inhoud)
+<!-- /nav:bottom -->
