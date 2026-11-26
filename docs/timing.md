@@ -19,7 +19,7 @@ De politie noemt geen totale duur van de echte test en geen maximum aantal opgav
 
 ## Strategie bij een vaste totale tijd
 
-1. **Reken je budget uit.** Deel de tijd door het aantal vragen. Bij 30 vragen in 35 minuten, zoals de [oefentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest), is dat iets meer dan een minuut per vraag.
+1. **Reken je budget uit.** Deel de tijd door het aantal vragen. Bij 30 vragen in 35 minuten, zoals de [oefentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest), is dat iets meer dan een minuut per vraag.
 2. **Spaar tijd bij snelle vraagtypen.** Woordrelaties en eenvoudige reeksen kosten 20 tot 30 seconden. Die tijd heb je nodig voor rekenvragen en matrices.
 3. **Kijk op een paar vaste momenten op de klok,** bijvoorbeeld na een derde en na twee derde van de vragen. Loop je achter, schakel dan bij twijfel sneller over op gokken.
 4. **Laat niets leeg** als een fout antwoord je niet extra punten kost. Een gok kan alleen helpen. Staat in de instructie dat fouten zwaarder tellen, volg dan de instructie.
@@ -40,7 +40,7 @@ De politie noemt geen totale duur van de echte test en geen maximum aantal opgav
 
 ## Oefen tegen de klok
 
-Lezen over tempo helpt maar een beetje. Wat helpt, is een paar keer onder echte tijdsdruk oefenen en daarna kijken waar je tijd bleef. Doe de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest) met een timer, en noteer bij elke vraag waar je langer dan een minuut over deed welk vraagtype het was.
+Lezen over tempo helpt maar een beetje. Wat helpt, is een paar keer onder echte tijdsdruk oefenen en daarna kijken waar je tijd bleef. Doe de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest) met een timer, en noteer bij elke vraag waar je langer dan een minuut over deed welk vraagtype het was.
 
 ---
 

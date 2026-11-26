@@ -95,7 +95,7 @@ A. krap · B. streng · C. haastig · D. dichtbij · E. zorgvuldig
 
 </details>
 
-Meer oefenen? De gratis getimede capaciteitentest op PrepClubs heeft 30 vragen in 35 minuten, verdeeld over verbaal, numeriek en abstract: [capaciteitentest oefenen op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest).
+Meer oefenen? De gratis getimede capaciteitentest op PrepClubs heeft 30 vragen in 35 minuten, verdeeld over verbaal, numeriek en abstract: [capaciteitentest oefenen op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest).
 
 ## Je score
 
@@ -109,7 +109,7 @@ Meer oefenen? De gratis getimede capaciteitentest op PrepClubs heeft 30 vragen i
 
 ## Volgende stap
 
-Woordrelaties gaan snel zodra je de zin-methode automatisch toepast. Oefen ze tussen andere vraagtypen door in de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest), en houd bij welke soort verband je het vaakst mist.
+Woordrelaties gaan snel zodra je de zin-methode automatisch toepast. Oefen ze tussen andere vraagtypen door in de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest), en houd bij welke soort verband je het vaakst mist.
 
 ---
 

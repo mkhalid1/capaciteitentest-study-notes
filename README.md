@@ -2,7 +2,7 @@
 
 Een gratis, complete studiegids voor de capaciteitentest die je in Nederland tegenkomt bij een sollicitatie, een assessment, de politieselectie of de keuring van Defensie. Je leest hoe zo'n test in elkaar zit, je krijgt per vraagtype een vaste aanpak, 30 eigen oefenopgaven met volledige uitleg (inclusief echte figuren voor figuurreeksen en matrices), uitleg over percentielen en normgroepen, en een studieplan voor een week of een weekend. Er bestaat niet één capaciteitentest: elke organisatie en elk testbureau kiest zijn eigen test. Alle concrete feiten in deze gids komen daarom van de officiële pagina's van de Politie, Defensie, de overheid en testuitgevers, elk met [bron](docs/sources.md).
 
-Wil je eerst weten waar je staat? Doe de [gratis getimede capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest), of de kortere [diagnostische toets van 15 minuten](docs/diagnostic.md) in deze gids.
+Wil je eerst weten waar je staat? Doe de [gratis getimede capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest), of de kortere [diagnostische toets van 15 minuten](docs/diagnostic.md) in deze gids.
 
 ## Begin hier
 
@@ -165,7 +165,7 @@ Elke uitleg heeft dezelfde opbouw: wat het onderdeel meet, hoe de vragen eruitzi
 - **Test jezelf eerlijk.** De antwoorden zitten achter "Antwoorden en uitleg". Kies eerst je antwoord en klap ze pas daarna open.
 - **Lees elke uitleg,** ook bij opgaven die je goed had. De meeste uitleg zegt ook waarom het dichtstbijzijnde foute antwoord fout is, en daar leer je het meest van.
 - **Houd een foutenlijst bij.** Schrijf bij elke fout op welke regel je miste. In de [studieplannen](docs/study-plans.md#zo-bespreek-je-een-fout) staat hoe.
-- **Oefen op tijd.** De gids leert je de aanpak. Een getimede oefentest, zoals de [gratis test op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest), leert je het tempo.
+- **Oefen op tijd.** De gids leert je de aanpak. Een getimede oefentest, zoals de [gratis test op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest), leert je het tempo.
 - **Clone of fork de repo** als je een eigen kopie met aantekeningen wilt. De structuur werkt ook als GitBook-space: zie [SUMMARY.md](SUMMARY.md).
 
 ## Over de oefenopgaven

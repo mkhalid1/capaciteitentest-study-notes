@@ -61,7 +61,7 @@ Het psychologisch onderzoek is een apart onderdeel, later in de selectie, en gee
 - De [diagnostische toets](diagnostic.md) en de 20 opgaven in de onderdelen van deze gids.
 - De oefentest van de politie, via de [pagina over de voorbereiding op de cognitietest](https://kombijde.politie.nl/agent-worden/selectie/cognitietest-voorbereiden).
 - De [oefentesten van Ixly](https://www.ixly.com/nl/oefentesten) voor numeriek, abstract en verbaal redeneren.
-- De [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest): 30 vragen in 35 minuten, verbaal, numeriek en abstract, zonder rekenmachine.
+- De [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest): 30 vragen in 35 minuten, verbaal, numeriek en abstract, zonder rekenmachine.
 
 ## Bronnen
 

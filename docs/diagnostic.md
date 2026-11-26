@@ -8,7 +8,7 @@ Tien opgaven die we zelf hebben geschreven, twee per onderdeel, om te zien waar 
 
 Deze opgaven zijn zelf geschreven voor deze gids. Ze komen niet uit een echte capaciteitentest of uit materiaal van een testuitgever.
 
-Ken je de vraagtypen al? Sla dit dan over en doe meteen de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest). Een volledige getimede test zegt meer over je tempo.
+Ken je de vraagtypen al? Sla dit dan over en doe meteen de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest). Een volledige getimede test zegt meer over je tempo.
 
 ## Deel A: Woordrelaties
 

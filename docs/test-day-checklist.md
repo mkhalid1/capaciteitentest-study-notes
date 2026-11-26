@@ -41,7 +41,7 @@ Een korte lijst om de dag van de test zonder verrassingen door te komen. De mees
 
 ## Laatste oefenronde
 
-Wil je vlak voor de echte test nog één keer warmdraaien, doe dan een paar opgaven uit de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest). Niet de hele test: je wilt fris aan de echte beginnen.
+Wil je vlak voor de echte test nog één keer warmdraaien, doe dan een paar opgaven uit de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest). Niet de hele test: je wilt fris aan de echte beginnen.
 
 ---
 

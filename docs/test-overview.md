@@ -54,7 +54,7 @@ Andere tests hebben een vast aantal vragen binnen een vaste tijd. Of jouw test a
 
 ## Oefen de echte vorm
 
-De gratis [capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest) heeft 30 vragen in 35 minuten, verdeeld over verbaal, numeriek en abstract, zonder rekenmachine. Dat is een oefenformaat en geen kopie van een echte test, maar het traint precies wat hierboven staat: wisselen tussen vraagtypen onder tijdsdruk.
+De gratis [capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest) heeft 30 vragen in 35 minuten, verdeeld over verbaal, numeriek en abstract, zonder rekenmachine. Dat is een oefenformaat en geen kopie van een echte test, maar het traint precies wat hierboven staat: wisselen tussen vraagtypen onder tijdsdruk.
 
 ---
 

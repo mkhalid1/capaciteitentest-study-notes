@@ -87,7 +87,7 @@ A. O · B. N · C. Q · D. R · E. P
 
 </details>
 
-Meer oefenen? De gratis getimede capaciteitentest op PrepClubs heeft 30 vragen in 35 minuten, verdeeld over verbaal, numeriek en abstract: [capaciteitentest oefenen op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest).
+Meer oefenen? De gratis getimede capaciteitentest op PrepClubs heeft 30 vragen in 35 minuten, verdeeld over verbaal, numeriek en abstract: [capaciteitentest oefenen op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest).
 
 ## Je score
 
@@ -101,7 +101,7 @@ Meer oefenen? De gratis getimede capaciteitentest op PrepClubs heeft 30 vragen i
 
 ## Volgende stap
 
-Reeksen zijn op de testdag snelle punten zodra de aanpak automatisch gaat. Wil je alleen reeksen trainen, kijk dan op de [pagina cijferreeksen oefenen van PrepClubs](https://prepclubs.com/nl/cijferreeksen-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest). Daarna oefen je ze gemengd met andere vraagtypen in de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest).
+Reeksen zijn op de testdag snelle punten zodra de aanpak automatisch gaat. Wil je alleen reeksen trainen, kijk dan op de [pagina cijferreeksen oefenen van PrepClubs](https://prepclubs.com/nl/cijferreeksen-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest). Daarna oefen je ze gemengd met andere vraagtypen in de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest).
 
 ---
 

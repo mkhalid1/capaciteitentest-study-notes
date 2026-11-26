@@ -16,7 +16,7 @@ Kun je je echt voorbereiden op een capaciteitentest? Ja, op een bepaalde manier.
 | 2 | Reeksen | Lees [cijfer- en letterreeksen](sections/cijferreeksen.md). Maak de 4 opgaven. Leer de alfabetankers (E = 5, J = 10, O = 15, T = 20) uit je hoofd. |
 | 3 | Woorden en tekst | Lees [woordrelaties](sections/woordrelaties.md) en, als je test een tekstonderdeel heeft, [tekstbegrip](sections/tekstbegrip.md). Maak de opgaven. Schrijf bij elke fout op welk verband of welk woord je miste. |
 | 4 | Rekenen en figuren | Lees [rekenvragen](sections/rekenvragen.md) en [figuurreeksen en matrices](sections/figuurreeksen.md). Doe tien procentsommen uit je hoofd. Leer de checklist met veranderingen bij figuren. |
-| 5 | Eerste getimede run | Maak een volledige getimede oefentest, zoals de [gratis test op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest). Kijk per onderdeel hoe het ging. Lees [tempo en tijdsdruk](timing.md). |
+| 5 | Eerste getimede run | Maak een volledige getimede oefentest, zoals de [gratis test op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest). Kijk per onderdeel hoe het ging. Lees [tempo en tijdsdruk](timing.md). |
 | 6 | Zwakste onderdeel | Ga terug naar de valkuilen van je zwakste onderdeel. Maak de opgaven opnieuw zonder naar de antwoorden te kijken. Zoek extra opgaven voor dat onderdeel en maak er minstens twintig. |
 | 7 | Tweede run en rust | Maak 's ochtends een tweede getimede test. Vergelijk per onderdeel met dag 5. Lees de [checklist voor de testdag](test-day-checklist.md). Stop 's avonds met oefenen. |
 
@@ -41,7 +41,7 @@ Voor als de testlink er al is en de deadline dichtbij. Bij de politie heb je bij
 | 1 | 15 min | Maak de [diagnostische toets](diagnostic.md). |
 | 2 | 20 min | Lees van alle vijf onderdelen alleen "Hoe de vragen eruitzien" en "Valkuilen". De rest komt later. |
 | 3 | 40 min | Maak de oefenopgaven van je twee zwakste onderdelen. Lees elke uitleg, ook bij de opgaven die je goed had. |
-| 4 | 35 min | Maak een volledige getimede oefentest, zoals de [gratis test op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest). |
+| 4 | 35 min | Maak een volledige getimede oefentest, zoals de [gratis test op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest). |
 | 5 | 20 min | Bespreek elke fout met de drie vragen hierboven. |
 
 ### Dag 2: maak de test

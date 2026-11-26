@@ -79,7 +79,7 @@ A. 1/6 · B. 1/12 · C. 1/4 · D. 1/3 · E. 5/12
 
 </details>
 
-Meer oefenen? De gratis getimede capaciteitentest op PrepClubs heeft 30 vragen in 35 minuten, verdeeld over verbaal, numeriek en abstract, zonder rekenmachine: [capaciteitentest oefenen op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest).
+Meer oefenen? De gratis getimede capaciteitentest op PrepClubs heeft 30 vragen in 35 minuten, verdeeld over verbaal, numeriek en abstract, zonder rekenmachine: [capaciteitentest oefenen op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest).
 
 ## Je score
 
@@ -93,7 +93,7 @@ Meer oefenen? De gratis getimede capaciteitentest op PrepClubs heeft 30 vragen i
 
 ## Volgende stap
 
-Rekenvragen zonder rekenmachine voelen onder tijdsdruk zwaarder dan thuis. Oefen ze in een volledige getimede run met de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest), en noteer bij elke fout of het om rekenen of lezen ging.
+Rekenvragen zonder rekenmachine voelen onder tijdsdruk zwaarder dan thuis. Oefen ze in een volledige getimede run met de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest), en noteer bij elke fout of het om rekenen of lezen ging.
 
 ---
 

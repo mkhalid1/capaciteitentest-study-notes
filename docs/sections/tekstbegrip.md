@@ -79,7 +79,7 @@ Deze 4 opgaven zijn zelf geschreven voor deze gids. Ze komen niet uit een echte 
 
 </details>
 
-Meer oefenen? De gratis getimede capaciteitentest op PrepClubs heeft 30 vragen in 35 minuten, verdeeld over verbaal, numeriek en abstract: [capaciteitentest oefenen op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest).
+Meer oefenen? De gratis getimede capaciteitentest op PrepClubs heeft 30 vragen in 35 minuten, verdeeld over verbaal, numeriek en abstract: [capaciteitentest oefenen op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest).
 
 ## Je score
 
@@ -93,7 +93,7 @@ Meer oefenen? De gratis getimede capaciteitentest op PrepClubs heeft 30 vragen i
 
 ## Volgende stap
 
-Tekstbegrip onder tijdsdruk voelt anders dan rustig lezen. Probeer het in een volledige getimede run met de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest), en kom daarna terug naar de valkuilen bij de opgaven die je miste.
+Tekstbegrip onder tijdsdruk voelt anders dan rustig lezen. Probeer het in een volledige getimede run met de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest), en kom daarna terug naar de valkuilen bij de opgaven die je miste.
 
 ---
 

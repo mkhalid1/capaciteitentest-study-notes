@@ -62,7 +62,7 @@ Bronnen: [Werken bij Defensie, capaciteitentest](https://werkenbijdefensie.nl/al
 
 ## Oefen in het echte formaat
 
-Voor allebei geldt: lezen is het begin, oefenen onder tijdsdruk maakt het verschil. Doe de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=capaciteitentest) (30 vragen in 35 minuten, verbaal, numeriek en abstract, zonder rekenmachine) en gebruik daarnaast de officiële oefentest van de politie of het oefenmateriaal waarnaar Defensie verwijst.
+Voor allebei geldt: lezen is het begin, oefenen onder tijdsdruk maakt het verschil. Doe de [gratis capaciteitentest op PrepClubs](https://prepclubs.com/nl/capaciteitentest-oefenen?utm_source=github&utm_medium=referral&utm_campaign=uedrfa&utm_content=capaciteitentest) (30 vragen in 35 minuten, verbaal, numeriek en abstract, zonder rekenmachine) en gebruik daarnaast de officiële oefentest van de politie of het oefenmateriaal waarnaar Defensie verwijst.
 
 ---
 
